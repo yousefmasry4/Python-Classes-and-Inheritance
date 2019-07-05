@@ -1,0 +1,5 @@
+{
+{ "type": "cash", "text": "$950", "value": 950, "prize": "A trip to Ann Arbor!" },
+{ "type": "bankrupt", "text": "Bankrupt", "prize": false },
+{ "type": "loseturn", "text": "Lose a turn", "prize": false }
+}
